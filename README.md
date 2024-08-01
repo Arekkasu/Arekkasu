@@ -1,12 +1,87 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Alexander, estudiante de Ingeniería de Software con un gran interés en Ciencia de Datos, Desarrollo Web y Ciencias de la Computación.<br><br>🌎 Origen: Colombia<br>🎓 Edad: 19 años<br>📚 Actualidad: Estudiando Ingeniería de Software<br><br>💻 Tecnologías y herramientas:<br><br>    Node.js y TypeScript para desarrollo web<br>    C para estructuras de datos<br>    Python para análisis de datos<br>    Familiaridad con Git, SQL(Postgresql)<br><br>📈 Proyectos y experiencia:<br><br>    Desarrollo de aplicaciones web (MyWallet)<br><br>🌟  Habilidades blandas:<br><br>    Trabajo en equipo<br>    Resolución de problemas<br>    Adaptabilidad y aprendizaje continuo<br><br>🔍 Compromiso: No dejo una tarea sin finalizar y siempre busco distintas alternativas para soluciones concretas.
-</br>[![](https://visitcount.itsvg.in/api?id=Arekkasu&icon=0&color=12)](https://visitcount.itsvg.in)
+# 💫 About Me
+
+👋 ¡Hola! Soy Alexander, estudiante de Ingeniería de Software con un gran interés en Ciencia de Datos, Desarrollo Web y Ciencias de la Computación.
+
+🌎 **Origen:** Colombia  
+🎓 **Edad:** 19 años  
+📚 **Actualidad:** Estudiando Ingeniería de Software
+
+## 💻 Tecnologías y herramientas
+
+- Node.js y TypeScript para desarrollo web
+- C para estructuras de datos
+- Python para análisis de datos
+- Familiaridad con Git y SQL (PostgreSQL)
+
+## 📈 Proyectos y experiencia
+
+- Desarrollo de aplicaciones web (MyWallet)
+
+## 🌟 Habilidades blandas
+
+- Trabajo en equipo
+- Resolución de problemas
+- Adaptabilidad y aprendizaje continuo
+
+## 🔍 Compromiso
+
+No dejo una tarea sin finalizar y siempre busco distintas alternativas para soluciones concretas.
+
+[![](https://visitcount.itsvg.in/api?id=Arekkasu&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alx_lozadac) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-lozada-caviedes-470569264) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<table style="margin:0">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,spring"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,js,ts"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data Analysis:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python"/><img height="40" src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Computing Science:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=jest"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,neovim"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,arch"/></td>
+    </tr>
+
+</table>
+
 # 📊 GitHub Stats:
 <p align="center">
   <!--- stats (start) -->
