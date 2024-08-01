@@ -34,11 +34,10 @@
 ## 🎧 Spotify Playing:
 
 <p align="center">
-    <a href="https://open.spotify.com/user/31ktk4wujw74c5tfozk5tjh66b5e" target="_blank"> 
-        <img width="80%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Arek spotify" />
-    </a>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img width="80%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ktk4wujw74c5tfozk5tjh66b5e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=26a269&bar_color_cover=true" alt="spotify-github-profile" />
+  </a>
 </p>
-<br>
 
 
 
