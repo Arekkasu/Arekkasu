@@ -9,7 +9,6 @@
 ## 💻 Tecnologías y herramientas
 
 - Node.js y TypeScript para desarrollo web
-- C para estructuras de datos
 - Python para análisis de datos
 - Familiaridad con Git y SQL (PostgreSQL)
 
@@ -48,16 +47,8 @@ No dejo una tarea sin finalizar y siempre busco distintas alternativas para solu
         <td><img height="40" src="https://skillicons.dev/icons?i=python"/><img height="40" src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Computing Science:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c"/></td>
-    </tr>
-    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=postgresql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
@@ -102,18 +93,6 @@ No dejo una tarea sin finalizar y siempre busco distintas alternativas para solu
 </tr>
 </table>
 </p>
-
-
----
-
-## 🎧 Spotify Playing:
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img width="80%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ktk4wujw74c5tfozk5tjh66b5e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=26a269&bar_color_cover=true" alt="spotify-github-profile" />
-  </a>
-</p>
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
